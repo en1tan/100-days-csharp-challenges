@@ -6,10 +6,7 @@ namespace Learning
     {
         static void Main(string[] args)
         {
-            MyArray myArray = new MyArray();
-
-            int[] arrayCheck = { 1, 2, 3, 5, 6 };
-            Console.WriteLine(myArray.FindMissingNumber(arrayCheck));
+            Console.WriteLine("Welcome to Challenges");
 
         }
     }
